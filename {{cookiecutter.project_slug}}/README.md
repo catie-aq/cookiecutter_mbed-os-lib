@@ -2,4 +2,4 @@
 
 {{cookiecutter.project_short_description}}
 
-Describe `LibTemplate` library here
+<!-- Describe `{{cookiecutter.library_name}}` library here -->
