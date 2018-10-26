@@ -3,7 +3,7 @@
     "project_short_description": "A short description of the project",
     "project_slug": "{{ cookiecutter.project_name|lower|replace(' ', '-') }}",
     "library_name": "LibraryName",
-    "base_name": "{{ cookiecutter.library_name|lower }}",
+    "base_name": "{{ cookiecutter.project_slug|replace('-', '_') }}",
     "copyright_holder": "CATIE",
     "copyright_year": "{% now 'utc', '%Y' %}",
     "_extensions": ["jinja2_time.TimeExtension"]

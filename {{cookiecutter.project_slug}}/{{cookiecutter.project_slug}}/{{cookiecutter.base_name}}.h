@@ -14,8 +14,8 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-#ifndef CATIE_SIXTRON_{{cookiecutter.base_name|upper}}_H_
-#define CATIE_SIXTRON_{{cookiecutter.base_name|upper}}_H_
+#ifndef CATIE_SIXTRON_{{cookiecutter.base_name|upper|replace('_', '')}}_H_
+#define CATIE_SIXTRON_{{cookiecutter.base_name|upper|replace('_', '')}}_H_
 
 namespace sixtron {
 
@@ -27,5 +27,5 @@ public:
 
 } // namespace sixtron
 
-#endif // CATIE_SIXTRON_{{cookiecutter.base_name|upper}}_H_
+#endif // CATIE_SIXTRON_{{cookiecutter.base_name|upper|replace('_', '')}}_H_
 
