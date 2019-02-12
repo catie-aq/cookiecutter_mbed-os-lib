@@ -20,8 +20,8 @@ cookiecutter gl:catie_6tron/cookiecutter-mbed-os-lib
 - `project_name`: name of the project, eg. "My New Library"
 - `project_short_description`: one-line description of the project
 - `project_slug`: GitLab project slug (lowercase, hyphen-separated), eg. `my-new-lib`
-- `library_name`: Library main class name (Pascal case), eg. `MyNewLib`
+- `library_name`: library main class name (Pascal case), eg. `MyNewLib`
 - `base_name`: CPP source file name (without extension, lowercase, undescore-separated),
   eg. `my_new_lib`
-- `copyright_holder`: Copyright holder used in headers
-- `copyright_year`: Copyright year used in headers
+- `copyright_holder`: copyright holder used in headers
+- `copyright_year`: copyright year used in headers
