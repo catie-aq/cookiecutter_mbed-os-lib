@@ -1,6 +1,6 @@
 {
     "project_name": "Name of the project",
-    "project_short_description": "A short description of the project",
+    "project_short_description": "A short description of the project.",
     "project_slug": "{{ cookiecutter.project_name|lower|replace(' ', '-') }}",
     "library_name": "LibraryName",
     "base_name": "{{ cookiecutter.library_name|lower|replace('-', '_') }}",
