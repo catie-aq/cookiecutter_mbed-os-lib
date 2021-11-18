@@ -25,3 +25,6 @@ cookiecutter gl:catie_6tron/cookiecutter-mbed-os-lib
   eg. `my_new_lib`
 - `copyright_holder`: copyright holder used in headers
 - `copyright_year`: copyright year used in headers
+- `open_source_license`: project license
+- `create_repository`: if true, creates a Git repository, adds all files and makes first
+  commit
