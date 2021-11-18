@@ -28,4 +28,3 @@ public:
 } // namespace sixtron
 
 #endif // CATIE_SIXTRON_{{cookiecutter.base_name|upper|replace('_', '')}}_H_
-
