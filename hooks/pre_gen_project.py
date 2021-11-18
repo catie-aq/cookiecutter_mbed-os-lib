@@ -13,9 +13,10 @@ def check_project_slug():
         # exits with status 1 to indicate failure
         sys.exit(1)
 
+
 def main():
     check_project_slug()
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
