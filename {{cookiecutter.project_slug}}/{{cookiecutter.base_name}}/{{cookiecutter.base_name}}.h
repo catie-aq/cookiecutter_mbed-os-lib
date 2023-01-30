@@ -7,8 +7,7 @@
 
 namespace sixtron {
 
-class {{cookiecutter.library_name}}
-{
+class {{cookiecutter.library_name}} {
 public:
     {{cookiecutter.library_name}}();
 };
