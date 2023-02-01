@@ -13,7 +13,7 @@ pip install --user cookiecutter
 Generate a new Mbed OS library from template:
 
 ```shell
-cookiecutter gl:catie_6tron/cookiecutter-mbed-os-lib
+cookiecutter gh:catie-aq/cookiecutter_mbed-os-lib
 ```
 
 ## Template variables
