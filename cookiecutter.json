@@ -15,6 +15,6 @@
         false
     ],
     "_extensions": [
-        "jinja2_time.TimeExtension"
+        "cookiecutter.extensions.TimeExtension"
     ]
 }
